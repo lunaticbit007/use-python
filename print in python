@@ -3,3 +3,8 @@ this depend upon which version of python you are using ..
 below works on python 3
 
 print("hello world")
+
+for running a loop
+
+for i in range(10):
+  print("name")
