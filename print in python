@@ -3,3 +3,7 @@ this depend upon which version of python you are using ..
 below works on python 3
 
 print("hello world")
+ 
+ and we can comment in python using
+ '#'
+ # this is a commented line
