@@ -1,3 +1,5 @@
-you can prit in pythn by just one kine
+you can print in python by just one line 
+this depend upon which version of python you are using ..
+below works on python 3
 
 print("hello world")
